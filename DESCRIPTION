@@ -1,0 +1,12 @@
+Package: folketingsvalg
+Type: Package
+Title: Folketingsvalg i Danmark
+Version: 0.1.0
+Author: Martin Møller Skarbiniks Pedersen
+Maintainer: Martin Møller Skarbiniks Pedersen<traxplayer@gmail.com>
+Description: Et datasæt med resultaterne fra de seneste valg til folketinget. Alle data kommer oprindeligt som xml-filer fra Danmarks Statistik.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Depends: R (>= 2.10)
