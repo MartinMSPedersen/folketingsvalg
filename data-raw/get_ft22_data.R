@@ -1,4 +1,4 @@
-fintal <- "http://www.dst.dk/valg/Valg1664255/xml/fintal.xml"
+fintal <- "https://www.dst.dk/valg/Valg1968094/xml/fintal.xml"
 download.file(fintal, "fintal.xml")
 
 f <- readLines(fintal)
@@ -16,6 +16,7 @@ for (idx in seq_along(f)) {
 }
 
 files_to_get <- grep("fintal",files_to_get, value = TRUE)
+
 
 for (idx in seq_along(files_to_get)) {
   afile <- files_to_get[[idx]]
