@@ -14,6 +14,7 @@ Tallene for 2011-2019 afstemningerne stammer fra:
 * 2011 http://www.dst.dk/valg/Valg1204271/xml/fintal.xml
 * 2015 http://www.dst.dk/valg/Valg1664255/xml/fintal.xml
 * 2019 https://www.dst.dk/valg/Valg1684447/xml/fintal.xml
+* 2022 https://www.dst.dk/valg/Valg1968094/xml/fintal.xml
 
 ## Kontakt mig endelig ##
 
