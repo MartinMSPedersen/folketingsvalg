@@ -160,7 +160,7 @@ convert_one_file <- function(uri) {
 # main
 folketingsvalg <- data.frame()
 
-for (aar in c(11,15,19)) {
+for (aar in c(11,15,19,22)) {
   valg_struktur(paste0("ft",aar,"/fintal.xml"))
   raw_path <- paste0("ft",aar)
   filenames <- dir(path = raw_path, pattern = "fintal_.*", full.names = T)
