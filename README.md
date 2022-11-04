@@ -1,12 +1,12 @@
 # Folketingsvalg
 En R pakke som indeholder et datasæt med resultaterne af de seneste danske folketingsvalg.
-Pakken kan installeres med: `devtools::install_github("MartinMSPedersen/folketingsvalg")`
+Pakken kan installeres med:  
+`devtools::install_github("MartinMSPedersen/folketingsvalg")`
 
 ## Ikke/aldrig færdig ##
 
 Denne R pakke kommer til at indeholde flere informationer på alle de danske folketingsvalg, som jeg finder oplysninger på.. 
-Indtil videre er resultaterne for 2011, 2015 og 2019 valgene med.
-2022 valget kommer om få dage.
+Indtil videre er resultaterne for 2011, 2015, 2019 og 2022 valgene med.
 
 Informationerne stemmer mest fra Danmarks Statistik.
 
