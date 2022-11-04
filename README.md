@@ -1,6 +1,7 @@
 # Folketingsvalg
 En R pakke som indeholder et datasæt med resultaterne af de seneste danske folketingsvalg.
-Pakken kan installeres med: `devtools::install_github("MartinMSPedersen/folketingsvalg")`
+Pakken kan installeres med:  
+`devtools::install_github("MartinMSPedersen/folketingsvalg")`
 
 ## Ikke/aldrig færdig ##
 
