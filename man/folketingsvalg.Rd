@@ -10,6 +10,6 @@
 folketingsvalg
 }
 \description{
-Et datasæt som indeholder resultaterne af folketingsvalgene 2011, 2015 og 2019
+Et datasæt som indeholder resultaterne af folketingsvalgene 2011, 2015, 2019 og 2022.
 }
 \keyword{datasets}
